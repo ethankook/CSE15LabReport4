@@ -28,8 +28,8 @@
    <2> --> types in a 2, where the 1 used to be.
    <esc> --> enters normal mode.
    <:><w><q><enter> --> saves and exits vim.
-   ![image](LR4SS4.png)
    ```
+   ![image](LR4SS4.png)
    
 8. Run the tests, demonstrating that they now succeed
    
