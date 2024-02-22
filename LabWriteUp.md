@@ -19,6 +19,7 @@
 7. Edit the code file to fix the failing test
    
    `cd lab7` and `vim ListExamples.java` in the terminal to move into the cloned repository and open `ListExamples.java` in vim.
+   ```
    keys presssed:
    <4><3><j> --> moves down 43 lines to the line with the error.
    <e> --> moves to end of the first word.
@@ -28,6 +29,7 @@
    <esc> --> enters normal mode.
    <:><w><q><enter> --> saves and exits vim.
    ![image](LR4SS4.png)
+   ```
    
 8. Run the tests, demonstrating that they now succeed
    
