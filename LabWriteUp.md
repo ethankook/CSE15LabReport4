@@ -8,7 +8,7 @@
    
 5. Clone your fork of the repository from your Github account (using the SSH URL)
    
-   Copied the link, as shown below and typed `git clone git@github.com:ethankook/lab7.git` into the terminal to clone the forked repository.
+   Copied the link, as shown below and typed `git clone git@github.com:ethankook/lab7.git` into the terminal to clone the forked repository. Keystrokes : <g><i><t><space><c><l><o><n><e><space><command, v> (pasted url).
    ![image](LR4SS2.png)
    
 6. Run the tests, demonstrating that they fail
