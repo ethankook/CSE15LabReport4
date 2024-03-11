@@ -14,7 +14,7 @@
    
 7. Run the tests, demonstrating that they fail
    
-   `bash test.sh` in terminal to run tests for `ListExamples.java`.
+   `cd lab7` and `bash test.sh` in terminal to run tests for `ListExamples.java`.
    ![image](LR4SS3.png)
    
 8. Edit the code file to fix the failing test
