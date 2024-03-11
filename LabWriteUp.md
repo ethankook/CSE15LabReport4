@@ -8,15 +8,16 @@
    
 5. Clone your fork of the repository from your Github account (using the SSH URL)
    
-   Copied the link, as shown below and typed `git clone git@github.com:ethankook/lab7.git` into the terminal to clone the forked repository. Keystrokes : <g><i><t><space><c><l><o><n><e><space><command, v> (pasted url).
+   Copied the link, as shown below and typed `git clone git@github.com:ethankook/lab7.git` into the terminal to clone the forked repository.
+   ```Keystrokes : <g><i><t><space><c><l><o><n><e><space><command, v> (pasted url).```
    ![image](LR4SS2.png)
    
-6. Run the tests, demonstrating that they fail
+7. Run the tests, demonstrating that they fail
    
    `bash test.sh` in terminal to run tests for `ListExamples.java`.
    ![image](LR4SS3.png)
    
-7. Edit the code file to fix the failing test
+8. Edit the code file to fix the failing test
    
    `cd lab7` and `vim ListExamples.java` in the terminal to move into the cloned repository and open `ListExamples.java` in vim.
    ```
@@ -31,12 +32,12 @@
    ```
    ![image](LR4SS4.png)
    
-8. Run the tests, demonstrating that they now succeed
+9. Run the tests, demonstrating that they now succeed
    
    `bash test.sh` in terminal to run tests again. Results shown below.
    ![image](LR4SS5.png)
 
-9. Commit and push the resulting change to your Github account (you can pick any commit message!)
+10. Commit and push the resulting change to your Github account (you can pick any commit message!)
 
     `git add .` in terminal to add all changes to commit.
    `git commit -m "message"` to commit the changes with a commit message.
